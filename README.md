@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jyotsna0303
-- 👀 I’m interested in Software development and Devops practices.
-- 🌱 I’m currently learning DSA and DevOps.
-- 💞️ I’m looking to collaborate on learning DSA together with somebody who is a working professional and preparing DSA.
+- 👀 I’m interested in Cloud platform engineering and system designs.
+- 🌱 I’m currently learning System Designs and Cloud platform engineering.
 - 📫 Reach me on linkedin www.linkedin.com/in/jyotsna-kukreti
 
 <!---
